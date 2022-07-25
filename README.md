@@ -1,1 +1,1 @@
-# Smart-Contract-Code-KG
+Because of the limited capacity of this repository, more data(knowledge graph database, 5140 smart contracts source code, word2vec model, codebert model, BM25 model) are available at this link https://drive.google.com/file/d/1RmhgCzscb1l12_mPp8gkvnW01PWXSSRW/view?usp=sharing.
