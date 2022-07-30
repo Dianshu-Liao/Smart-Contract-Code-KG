@@ -1,0 +1,11 @@
+Identifier,469312
+AssignmentOperation,100494
+CallExpression,140181
+BinaryOperation,104548
+Literal,76375
+IndexAccess,95226
+TypeConversion,15370
+TupleExpression,8291
+UnaryOperation,7223
+MemberAccess,13481
+Sum,1030501
