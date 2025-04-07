@@ -6,6 +6,8 @@ In addition, to expedite your verification of our paper, we have created a virtu
 To use the virtual machine, please ensure that you have VMware Station installed. You can download and install this software from the following link: https://drive.google.com/file/d/14DDaV5iBhPGbi969S0eUB5ja6rwt5kyn/view?usp=sharing.
 
 
+**Note:** Because these files take up a large amount of storage space, I sometimes temporarily remove them from my Google Drive to save space. If you’re unable to access the data, please feel free to email me at dianshu.liao@anu.edu.au, and I’ll re-upload the files for you.
+
 ## Environment configuration
 To run this project, you must configure your environment with Python and Neo4j. Specifically, you will need Python version 3.6.9 and Neo4j version Community 3.5.28.
 
