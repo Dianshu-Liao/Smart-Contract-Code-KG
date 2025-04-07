@@ -3,7 +3,7 @@ Due to GitHub's limited capacity, we have uploaded all our source code and data 
 
 In addition, to expedite your verification of our paper, we have created a virtual machine that showcases the KG, code recommendation, and crowd-scale coding practice checking applications we developed. You can access this virtual machine from this link: https://drive.google.com/file/d/1u1LLcp2YNjksXJUX09N5NjpkT85RZTV5/view?usp=sharing.
 
-To use the virtual machine, please ensure that you have VMware Station installed. You can download and install this software from the following link: https://drive.google.com/file/d/14DDaV5iBhPGbi969S0eUB5ja6rwt5kyn/view?usp=drive_link.
+To use the virtual machine, please ensure that you have VMware Station installed. You can download and install this software from the following link: https://drive.google.com/file/d/14DDaV5iBhPGbi969S0eUB5ja6rwt5kyn/view?usp=sharing.
 
 
 ## Environment configuration
